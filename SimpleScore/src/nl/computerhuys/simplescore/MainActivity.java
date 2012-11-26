@@ -25,6 +25,7 @@ public class MainActivity extends Activity {
 	RadioGroup radioGroup1;
 	RadioGroup radioGroup2;
 	RadioGroup radioGroup3;
+	RadioGroup testgit;
 	
 	TextView textView15;
 	TextView textView16;
