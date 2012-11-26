@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleScore</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="speler1">Antoon</string>
+    <string name="speler2">Monique</string>
+    <string name="speler3">Ruud</string>
+    <string name="klik_om_score_op_te_slaan">Klik om score op te slaan</string>
+    <string name="ok">OK</string>
+    <string name="reset">C</string>
+    <string name="save">Save</string>
+
+</resources>
